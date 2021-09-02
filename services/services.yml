@@ -1,7 +1,7 @@
 kind: Service
 apiVersion: v1
 metadata:
-  name: nodeapp
+  name: myservice
 spec:
   selector:
     app: nodeapp
